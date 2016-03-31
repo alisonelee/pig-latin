@@ -1,0 +1,16 @@
+html {
+    font-family: Futura;
+}
+
+h1, h2, h3, p, form {
+    color: white;
+}
+
+input {
+    color: gainsboro;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("font/futura light bt.ttf");
+}
