@@ -80,12 +80,12 @@ function find_cluster($word) {
 <html>
 <head>
     <title>Pig Latin</title>
-    <link href="pig.css" rel=stylesheet>
+    <link href="main.css" rel=stylesheet>
 </head>  
 <body bgcolor = MistyRose>
 <center><br><br><br>
     <h3>Okay-way! Here it is:</h3>
-    <center><img src="pig.png" width=300/></center>
+    <center><img src="img/pig.png" width=300/></center>
     <h2> You said, "
         <?php 
             $message = $_POST['message'];
